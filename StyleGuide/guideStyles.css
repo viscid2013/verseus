@@ -44,4 +44,5 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 
 .btn .btn-outline-primary {
 	border-color: #adb8e1 !important;
+	color: #adb8e1 !important;
 }
