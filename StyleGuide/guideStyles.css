@@ -39,3 +39,9 @@ body{
 	color: #555555;
 }
 h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
+
+/* buttons */
+
+.mybop {
+	border-color: #adb8e1 !important;
+}
