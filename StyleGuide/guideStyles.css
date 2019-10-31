@@ -46,7 +46,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 	border-radius: 3px;
 }
 
-.vbtn .btnmain {
+.btnmain {
 	background-color: #adb8e1;
 	color: #ccc;
 }
