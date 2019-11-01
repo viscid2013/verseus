@@ -87,8 +87,8 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 
 .btn-secondary:hover {
   color: #fff;
-  background-color: #7386cb;
-  border-color: #7386cb;
+  background-color: #909fd6;
+  border-color: #909fd6;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
