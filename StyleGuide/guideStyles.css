@@ -50,3 +50,35 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 	background-color: #adb8e1;
 	color: #ccc;
 }
+
+.btn-outline-primary {
+  color: #adb8e1;
+  border-color: #adb8e1;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #adb8e1;
+  border-color: #adb8e1;
+}
+
+.btn-outline-primary:focus, .btn-outline-primary.focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
+
+.btn-outline-primary.disabled, .btn-outline-primary:disabled {
+  color: #909fd6;
+  background-color: transparent;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
+.show > .btn-outline-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #adb8e1;
+  border-color: #adb8e1;
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-primary.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+}
