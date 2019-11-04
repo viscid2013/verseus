@@ -14,11 +14,13 @@
 
 .w3-theme-light {color:#000 !important; background-color:#fafbfd !important}
 .w3-theme-dark {color:#fff !important; background-color:#364a91 !important}
+.w3-theme-darkest {color:#fff !important; background-color:#141c37 !important}
 .w3-theme-action {color:#fff !important; background-color:#364a91 !important}
 
 .w3-theme {color:#000 !important; background-color:#adb8e1 !important}
 .w3-text-theme {color:#adb8e1 !important}
 /* Dark text */
+.w3-text-theme-darkest {color:#141c37 !important}
 .w3-text-theme-d5 {color:#364a91 !important}
 .w3-text-theme-d4 {color:#4058ae !important}
 .w3-text-theme-d3 {color:#566dc0 !important}
