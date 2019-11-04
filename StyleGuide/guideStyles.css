@@ -83,9 +83,9 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  color: #666;
-  background-color: #818fc0;
-  border-color: #818fc0;
+  color: #333;
+  background-color: #a0a7c0;
+  border-color: #a0a7c0;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
