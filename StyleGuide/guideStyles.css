@@ -654,7 +654,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 @media only screen and (max-width: 1199px) {
 
 	#logo_nav {
-		max-width: 30%;
+		width: 30%;
 	}
 	
 	#twelve{
@@ -677,7 +677,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 @media only screen and (max-width: 992px) {
 
 	#logo_nav {
-		max-width: 33%;
+		width: 33%;
 	}
 	
 	#twelve{
@@ -700,7 +700,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 @media only screen and (max-width: 767px) {
 
 	#logo_nav {
-		max-width: 25%;
+		width: 25%;
 	}
 	
 	#twelve{
@@ -723,7 +723,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 @media only screen and (max-width: 575px) {
 
 	#logo_nav {
-		max-width: 40%;
+		width: 40%;
 	}
 	
 	#twelve{
