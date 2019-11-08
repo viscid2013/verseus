@@ -625,3 +625,98 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 .show > .btn-outline-dark.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(145, 152, 179, 0.5);
 }
+
+/* Extra Large-specific styles */
+
+@media only screen and (min-width: 1200px) {
+
+	#1200{
+		display: block;
+	}
+	#992 {
+		display: none;
+	}
+	#768{
+		display: none;
+	}
+	#576 {
+		display: none;
+	}
+	
+}/* end extra large styles */
+
+/* Large-specific styles */
+
+@media only screen and (min-width: 993px) {
+
+	#1200{
+		display: none;
+	}
+	#992 {
+		display: block;
+	}
+	#768{
+		display: none;
+	}
+	#576 {
+		display: none;
+	}
+	
+}/* end large styles */
+
+/* Medium-specific styles */
+
+@media only screen and (min-width: 768px) {
+
+	#1200{
+		display: none;
+	}
+	#992 {
+		display: none;
+	}
+	#768{
+		display: block;
+	}
+	#576 {
+		display: none;
+	}
+	
+}/* end medium styles */
+
+/* Small-specific styles */
+
+@media only screen and (min-width: 576px) {
+
+	#1200{
+		display: none;
+	}
+	#992 {
+		display: none;
+	}
+	#768{
+		display: none;
+	}
+	#576 {
+		display: block;
+	}
+	
+}/* end small styles */
+
+/* Extra Small-specific styles */
+
+@media only screen and (max-width: 575px) {
+
+	#1200{
+		display: none;
+	}
+	#992 {
+		display: none;
+	}
+	#768{
+		display: none;
+	}
+	#576 {
+		display: none;
+	}
+	
+}/* end extra small styles */
