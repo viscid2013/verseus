@@ -630,6 +630,10 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 
 @media only screen and (min-width: 1200px) {
 
+	#logo_nav {
+		max-width: 33%;
+	}
+	
 	#twelve{
 		display: block;
 	}
@@ -649,6 +653,10 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 
 @media only screen and (max-width: 1199px) {
 
+	#logo_nav {
+		max-width: 30%;
+	}
+	
 	#twelve{
 		display: none;
 	}
@@ -668,6 +676,10 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 
 @media only screen and (max-width: 992px) {
 
+	#logo_nav {
+		max-width: 25%;
+	}
+	
 	#twelve{
 		display: none;
 	}
@@ -687,6 +699,10 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 
 @media only screen and (max-width: 767px) {
 
+	#logo_nav {
+		max-width: 20%;
+	}
+	
 	#twelve{
 		display: none;
 	}
@@ -706,6 +722,10 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Assistant', sans-serif}
 
 @media only screen and (max-width: 575px) {
 
+	#logo_nav {
+		max-width: 33%;
+	}
+	
 	#twelve{
 		display: none;
 	}
